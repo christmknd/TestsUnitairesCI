@@ -11,6 +11,6 @@
         "phpunit/phpunit": "^9.5"
     },
     "scripts": {
-        "test": "vendor/bin/phpunit CalculatriceTest.php"
+        "test": "vendor/bin/phpunit tests"
     }
 }
