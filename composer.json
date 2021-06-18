@@ -1,10 +1,10 @@
 {
     "name": "user/tests-unitaires-ci",
+    "description" : "This is my project",
     "authors": [
         {
             "name": "christ",
             "email": "christmokonda@gmail.com",
-            "description" : "This is my project"
         }
     ],
     "require": {}
