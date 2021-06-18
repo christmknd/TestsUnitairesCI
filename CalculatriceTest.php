@@ -1,6 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
+require "Calculatrice.php";
 
 class CalculatriceTest extends TestCase
 {

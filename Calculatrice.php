@@ -20,6 +20,10 @@ class Calculatrice
 
     public function div(int $a, int $b): int
     {
+        if ($b === 0) {
+            throw new Exception("Pas bon");
+        }
+
         return $a / $b;
     }
 }
