@@ -1,0 +1,10 @@
+{
+    "name": "user/tests-unitaires-ci",
+    "authors": [
+        {
+            "name": "christ",
+            "email": "christmokonda@gmail.com"
+        }
+    ],
+    "require": {}
+}
