@@ -3,7 +3,8 @@
     "authors": [
         {
             "name": "christ",
-            "email": "christmokonda@gmail.com"
+            "email": "christmokonda@gmail.com",
+            "description" : "This is my project"
         }
     ],
     "require": {}
